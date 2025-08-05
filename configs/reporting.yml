@@ -1,0 +1,24 @@
+holdings_server:
+	host: 'GCUSWVRPT032.corp.frk.com'
+	port: 22
+	username: 'ftxf_holdings'
+	password: '8ocHZFM4c31OthTR'
+
+holdings_api:
+	host: 'https://api.corp.frk.com/holdings/v1'
+	api_key: 'dAT3WsSLK9vz79inCLbH4B7Q6rk6i4Uo'
+
+holdings_app_db:
+	host: 'GCUSWVDB078.corp.frk.com'
+	port: 5432
+	username: 'ftapp_holdings'
+	password: 'bL91603gesxP'
+	holdings: 'holdings'
+
+holdings_rpt_db:
+	host: 'GCUSWVDB074.corp.frk.com'
+	port: 1433
+	username: 'ftrpt_holdings'
+	password: 'WjI3QX1KK4hvrn5o'
+	database: 'Holdings'
+	
